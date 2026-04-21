@@ -12,7 +12,3 @@ Project Length: A few days
 HighTailsGame:
 This is the near-complete code for High Tails. I tried removing all of the Debug lines, but you may encounter some anyway. Sorry about that.
 Project Length: 2 months
-
-
-
--Fidgetcat (Lance Calilung)
